@@ -43,7 +43,6 @@
 
 ### 🚀 Current Projects
 
-- 📊 **Yes Bank Stock Price Predictor** – Time series prediction using ML models  
 - 📺 **Netflix Data Analysis (2019)** – Exploratory analysis, clustering, and external rating integration  
 - 🌐 **Web Scraping Framework** – For chemical suppliers and sports forums (Anti-bot handling, API-ready)
 
