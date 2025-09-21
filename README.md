@@ -78,7 +78,7 @@ Developed a deep learning solution to predict customer satisfaction scores for e
 ### 📫 Let's Connect
 
 - 📧 **Email**: [ayush245101@gmail.com](mailto:ayush245101@gmail.com)  
-- 💼 **Resume**: [View Here](https://drive.google.com/file/d/1wRKkgUndEFRcmMgvtV7-wr-p2tenMSwc/view?usp=drive_link)  
+- 💼 **Resume**: [View Here](https://drive.google.com/file/d/1lKte-JH3plJSN84EbWEuhLC0enu3IBBx/view?usp=drive_link)  
 - 🔗 **LinkedIn**: [Ayush](https://www.linkedin.com/in/ayush-a798aa157)  
 - 💻 **HackerRank**: [@Ayush](https://www.hackerrank.com/profile/ayush_gopal_me_1)  
 
