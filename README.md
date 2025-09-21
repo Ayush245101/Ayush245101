@@ -59,6 +59,11 @@ Clustered 7,000+ Netflix titles using K-Means, DBSCAN, and PCA for content simil
 **Libraries**: Scikit-learn, Seaborn, Matplotlib  
 **Result**: Identified genre-based and temporal content groups
 
+#### 🤖 [DeepCSAT: E-Commerce Customer Satisfaction Score Prediction](https://github.com/Ayush245101/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction)
+Developed a deep learning solution to predict customer satisfaction scores for e-commerce platforms using structured and unstructured data. The project involved data preprocessing, feature engineering, and building neural network models to estimate customer satisfaction and provide actionable business insights.  
+**Tech Stack**: Python, TensorFlow, Keras, Pandas, Scikit-learn  
+**Impact**: Helped businesses identify satisfaction drivers and improve customer experience strategies
+
 ---
 
 ### 📈 GitHub Stats
