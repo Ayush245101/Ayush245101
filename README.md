@@ -59,29 +59,29 @@ Applied K-Means, DBSCAN, PCA to derive thematic clusters of titles and release c
 **Libraries**: Scikit-learn, Seaborn, Matplotlib  
 **Result**: Genre & era-based cluster insights
 
-#### 🤖 [DeepCSAT: E-Commerce Customer Satisfaction Score Prediction](https://github.com/Ayush245101/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction)
-Deep learning pipeline predicting satisfaction scores from structured + behavioral features.  
-**Stack**: Python, TensorFlow, Keras, Pandas, Scikit-learn  
-**Impact**: Surfaced drivers for retention and UX improvements
-
-#### 🛠️ Productionization of ML Systems (ADD REPO LINK)
+#### 🛠️ Productionization of ML Systems (https://github.com/Ayush245101/Productionization-of-ML-Systems)
 Integrated gender classification, hotel recommendation, and flight fare prediction models into deployable services.  
 **Stack**: Python, Scikit-learn, TensorFlow, Flask, Docker, Kubernetes, MLflow, Ngrok  
 **Highlights**: Containerization, CI/CD examples, versioning, monitoring blueprint  
 **Outcome**: Reusable foundation for safe model rollout
 
-#### 🗂️ Distributed Machine Learning (ADD REPO LINK)
+#### 🗂️ Distributed Machine Learning (https://github.com/Ayush245101/Distributed-Machine-Learning)
 Executed distributed feature engineering and model training over large-scale banking dataset.  
 **Stack**: Hadoop, Hive, Spark (PySpark), MLlib  
 **Pipeline**: Ingestion → Hive SQL → Feature Engineering → Distributed ML → Result Visualization  
 **Metrics**: 92% accuracy; 30% faster decision support
 
-#### 🛍️ Advanced Machine Learning (Retail Analytics System) (ADD REPO LINK)
+#### 🛍️ Advanced Machine Learning (Retail Analytics System) (https://github.com/Ayush245101/Advanced-Machine-Learning)
 Retail optimization platform: segmentation, demand forecasting, and performance insights.  
 **Stack**: Python, Scikit-learn, LightGBM, K-Means, PCA  
 **Result**: 97.2% R²; improved inventory & promo targeting
 
-#### 🙂 DeepFER: Facial Emotion Recognition (ADD REPO LINK)
+#### 🤖 [DeepCSAT: E-Commerce Customer Satisfaction Score Prediction](https://github.com/Ayush245101/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction)
+Deep learning pipeline predicting satisfaction scores from structured + behavioral features.  
+**Stack**: Python, TensorFlow, Keras, Pandas, Scikit-learn  
+**Impact**: Surfaced drivers for retention and UX improvements
+
+#### 🙂 DeepFER: Facial Emotion Recognition (https://github.com/Ayush245101/DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning)
 CNN model recognizing 7 emotion classes (FER dataset) with augmentation, batch norm, dropout.  
 **Stack**: Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 **Performance**: 70.4% train / 63.7% val / 62.9% test accuracy
