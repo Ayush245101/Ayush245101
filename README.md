@@ -71,7 +71,7 @@ Executed distributed feature engineering and model training over large-scale ban
 **Pipeline**: Ingestion → Hive SQL → Feature Engineering → Distributed ML → Result Visualization  
 **Metrics**: 92% accuracy; 30% faster decision support
 
-#### 🛍️ [Advanced Machine Learning](Retail Analytics System) (https://github.com/Ayush245101/Advanced-Machine-Learning)
+#### 🛍️ [Advanced Machine Learning (Retail Analytics System)](https://github.com/Ayush245101/Advanced-Machine-Learning)
 Retail optimization platform: segmentation, demand forecasting, and performance insights.  
 **Stack**: Python, Scikit-learn, LightGBM, K-Means, PCA  
 **Result**: 97.2% R²; improved inventory & promo targeting
