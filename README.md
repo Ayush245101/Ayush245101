@@ -12,7 +12,7 @@
 - 🎓 Mechanical Engineer turned **Data Science** enthusiast  
 - 🌱 Exploring **Machine Learning, Data Analysis, NLP**, and **BI Tools**
 - 💻 Passionate about using **data to solve real-world problems**
-- 📊 Actively working on **Web Scraping**, **Clustering**, and **Fraud Detection**
+- 📊 Actively working on **Web Scraping**, **Clustering**, **Fraud Detection**, and **ML System Deployment**
 - 🚀 Always learning, building, and open to collaboration
 
 ---
@@ -35,42 +35,64 @@
 ### 🚀 Featured Projects
 
 #### 🔍 [JustWatch Web Scraper](https://github.com/Ayush245101/justwatch-web-scraping)
-Engineered a robust Python-based web scraper to extract metadata of movies and shows from JustWatch. Supports automated crawling, error handling, and stores data in CSV for analysis.  
+Engineered a robust Python-based scraper to extract metadata of movies and shows from JustWatch. Automates crawling, handles errors, and exports clean CSV datasets.  
 **Libraries**: BeautifulSoup, Requests, Pandas  
-**Applications**: Content recommendation, trend analysis, benchmarking
+**Use Cases**: Content recommendation, catalog enrichment
 
 #### 📉 [Paisabazaar Banking Fraud EDA](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis)
-Performed in-depth exploratory data analysis on banking data to uncover fraud patterns. Used statistical profiling, outlier detection, and feature engineering.  
+Performed exploratory analytics to surface fraud patterns using profiling, correlation study, and outlier inspection.  
 **Tools**: Pandas, Seaborn, Matplotlib  
-**Outcome**: Identified key fraud signals and business strategies
+**Outcome**: Highlighted high-risk transaction behaviors
 
 #### 🧩 [LinkedIn Schema Design (SQL)](https://github.com/Ayush245101/LinkedIn-Schema-Project)
-Created a relational schema simulating LinkedIn core functionalities: users, connections, jobs, and messages. Included ER diagrams and SQL queries.  
+Designed relational schema for LinkedIn-like platform: users, connections, jobs, messaging. Delivered ER diagrams & normalized table structures.  
 **Tools**: PostgreSQL, MySQL  
-**Focus**: Data normalization, platform logic, relational integrity
+**Focus**: Referential integrity, scalable entity design
 
 #### 📊 [Paisabazaar BI Dashboard](https://github.com/Ayush245101/PaisaBazaar-Power-BI-Dashboard)
-Built an interactive Power BI dashboard showcasing KPIs like loan trends, channel performance, and user engagement with real-time refresh.  
+Interactive Power BI dashboard tracking KPIs (loan volume, acquisition channels, conversion).  
 **Tools**: Power BI, Excel, DAX  
-**Impact**: Improved decision-making and stakeholder insights
+**Impact**: Accelerated stakeholder decision cycles
 
 #### 🎬 [Netflix Content Clustering](https://github.com/Ayush245101/Netflix-Movies-TV-shows-Clustering--Unsupervised-Learning)
-Clustered 7,000+ Netflix titles using K-Means, DBSCAN, and PCA for content similarity and audience targeting. Visualized clusters and patterns.  
+Applied K-Means, DBSCAN, PCA to derive thematic clusters of titles and release chronology.  
 **Libraries**: Scikit-learn, Seaborn, Matplotlib  
-**Result**: Identified genre-based and temporal content groups
+**Result**: Genre & era-based cluster insights
 
 #### 🤖 [DeepCSAT: E-Commerce Customer Satisfaction Score Prediction](https://github.com/Ayush245101/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction)
-Developed a deep learning solution to predict customer satisfaction scores for e-commerce platforms using structured and unstructured data. The project involved data preprocessing, feature engineering, and building neural network models to estimate customer satisfaction and provide actionable business insights.  
-**Tech Stack**: Python, TensorFlow, Keras, Pandas, Scikit-learn  
-**Impact**: Helped businesses identify satisfaction drivers and improve customer experience strategies
+Deep learning pipeline predicting satisfaction scores from structured + behavioral features.  
+**Stack**: Python, TensorFlow, Keras, Pandas, Scikit-learn  
+**Impact**: Surfaced drivers for retention and UX improvements
+
+#### 🛠️ Productionization of ML Systems (ADD REPO LINK)
+Integrated gender classification, hotel recommendation, and flight fare prediction models into deployable services.  
+**Stack**: Python, Scikit-learn, TensorFlow, Flask, Docker, Kubernetes, MLflow, Ngrok  
+**Highlights**: Containerization, CI/CD examples, versioning, monitoring blueprint  
+**Outcome**: Reusable foundation for safe model rollout
+
+#### 🗂️ Distributed Machine Learning (ADD REPO LINK)
+Executed distributed feature engineering and model training over large-scale banking dataset.  
+**Stack**: Hadoop, Hive, Spark (PySpark), MLlib  
+**Pipeline**: Ingestion → Hive SQL → Feature Engineering → Distributed ML → Result Visualization  
+**Metrics**: 92% accuracy; 30% faster decision support
+
+#### 🛍️ Advanced Machine Learning (Retail Analytics System) (ADD REPO LINK)
+Retail optimization platform: segmentation, demand forecasting, and performance insights.  
+**Stack**: Python, Scikit-learn, LightGBM, K-Means, PCA  
+**Result**: 97.2% R²; improved inventory & promo targeting
+
+#### 🙂 DeepFER: Facial Emotion Recognition (ADD REPO LINK)
+CNN model recognizing 7 emotion classes (FER dataset) with augmentation, batch norm, dropout.  
+**Stack**: Python, TensorFlow, Keras, OpenCV, Scikit-learn  
+**Performance**: 70.4% train / 63.7% val / 62.9% test accuracy
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush245101&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush245101&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush245101&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush245101&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
