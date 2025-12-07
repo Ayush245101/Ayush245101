@@ -59,6 +59,11 @@ Applied K-Means, DBSCAN, PCA to derive thematic clusters of titles and release c
 **Libraries**: Scikit-learn, Seaborn, Matplotlib  
 **Result**: Genre & era-based cluster insights
 
+#### 🏦 [Yes Bank — Credit Risk & Customer Segmentation](https://github.com/Ayush245101/YesBank-Credit-Risk-Project)
+Built an end-to-end credit risk modeling and customer segmentation solution for banking use-cases. Performed feature engineering on transactional and demographic data, trained gradient boosting models for default prediction, and produced actionable segments for targeted interventions.  
+**Stack**: Python, Scikit-learn, XGBoost, Pandas, SQL, Tableau  
+**Outcome**: Improved early-warning signal detection and prioritized high-risk customer outreach
+
 #### 🛠️ [Productionization of ML Systems](https://github.com/Ayush245101/Productionization-of-ML-Systems)
 Integrated gender classification, hotel recommendation, and flight fare prediction models into deployable services.  
 **Stack**: Python, Scikit-learn, TensorFlow, Flask, Docker, Kubernetes, MLflow, Ngrok  
@@ -85,6 +90,11 @@ Deep learning pipeline predicting satisfaction scores from structured + behavior
 CNN model recognizing 7 emotion classes (FER dataset) with augmentation, batch norm, dropout.  
 **Stack**: Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 **Performance**: 70.4% train / 63.7% val / 62.9% test accuracy
+
+#### 🤝 [IndustryGpt — Industry-focused LLM Assistant](https://github.com/Ayush245101/IndustryGpt)
+Developed IndustryGpt, a domain-adapted language assistant tailored to provide industry-specific insights, summarization, and Q&A over proprietary and public datasets. Includes retrieval-augmented generation, prompt templates, and a lightweight web UI for demos.  
+**Stack**: Python, LangChain, Hugging Face / OpenAI, FAISS, Streamlit, Docker  
+**Use Cases**: Rapid domain research, internal knowledgebase assistant, automated report summaries
 
 ---
 
