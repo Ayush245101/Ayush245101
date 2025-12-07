@@ -9,11 +9,11 @@
 
 ### 🌟 About Me
 
-- 🎓 Mechanical Engineer turned **Data Science** enthusiast  
-- 🌱 Exploring **Machine Learning, Data Analysis, NLP**, and **BI Tools**
-- 💻 Passionate about using **data to solve real-world problems**
-- 📊 Actively working on **Web Scraping**, **Clustering**, **Fraud Detection**, and **ML System Deployment**
-- 🚀 Always learning, building, and open to collaboration
+- 🎓 Mechanical Engineer turned **Data Scientist**
+- 🤖 Exploring **Machine Learning, NLP, Data Analysis**, and **Business Intelligence**
+- 🔍 Skilled in **Web Scraping, Clustering, Fraud Detection**, and **ML System Deployment**
+- ⚙️ Hands-on with **Python, SQL, Power BI, TensorFlow, Docker, Spark**
+- 🚀 Passionate about building end-to-end data-driven solutions
 
 ---
 
@@ -101,19 +101,24 @@ Developed IndustryGpt, a domain-adapted language assistant tailored to provide i
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/Ayush245101_stats.svg" width="47%" />
-  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/Ayush245101_languages.svg" width="47%" />
+  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/ayush245101_stats.svg" width="47%" />
+  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/ayush245101_languages.svg" width="47%" />
 </p>
-
 
 ---
 
-### 📫 Let's Connect
+## 🤝 Let's Connect
 
-- 📧 **Email**: [ayush245101@gmail.com](mailto:ayush245101@gmail.com)  
-- 💼 **Resume**: [View Here](https://drive.google.com/file/d/16RIq676rb-ujdfj7QyCfJ753SEAeGMcY/view?usp=drive_link)  
-- 🔗 **LinkedIn**: [Ayush](https://www.linkedin.com/in/ayush-a798aa157)  
-- 💻 **HackerRank**: [@Ayush](https://www.hackerrank.com/profile/ayush_gopal_me_1)  
+<p align="left">
+  <a href="mailto:ayush245101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ayush-a798aa157"><img src="https://img.shields.io/badge/LinkedIn-Ayush-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.hackerrank.com/profile/ayush_gopal_me_1"><img src="https://img.shields.io/badge/Hackerrank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://drive.google.com/file/d/16RIq676rb-ujdfj7QyCfJ753SEAeGMcY/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=googledrive" /></a>
+</p>
+
+---
+
+<p align="center">💡 <i>"Driven by curiosity, powered by code."</i></p>
 
 ---
 
