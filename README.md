@@ -96,14 +96,6 @@ Developed IndustryGpt, a domain-adapted language assistant tailored to provide i
 **Stack**: Python, LangChain, Hugging Face / OpenAI, FAISS, Streamlit, Docker  
 **Use Cases**: Rapid domain research, internal knowledgebase assistant, automated report summaries
 
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/ayush245101_stats.svg" width="47%" />
-  <img src="https://raw.githubusercontent.com/rickstaa/github-readme-stats/master/generated/ayush245101_languages.svg" width="47%" />
-</p>
 
 ---
 
