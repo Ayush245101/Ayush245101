@@ -98,11 +98,11 @@ Developed IndustryGpt, a domain-adapted language assistant tailored to provide i
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush245101&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush245101&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush245101&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush245101&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
