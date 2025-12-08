@@ -59,10 +59,11 @@ Applied K-Means, DBSCAN, PCA to derive thematic clusters of titles and release c
 **Libraries**: Scikit-learn, Seaborn, Matplotlib  
 **Result**: Genre & era-based cluster insights
 
-#### 🏦 [Yes Bank — Credit Risk & Customer Segmentation](https://github.com/Ayush245101/YesBank-Credit-Risk-Project)
-Built an end-to-end credit risk modeling and customer segmentation solution for banking use-cases. Performed feature engineering on transactional and demographic data, trained gradient boosting models for default prediction, and produced actionable segments for targeted interventions.  
-**Stack**: Python, Scikit-learn, XGBoost, Pandas, SQL, Tableau  
-**Outcome**: Improved early-warning signal detection and prioritized high-risk customer outreach
+#### 🧾 [Classification---Flipkart-Customer-Service-Satisfaction](https://github.com/Ayush245101/Classification---Flipkart-Customer-Service-Satisfaction)
+End-to-end classification pipeline that predicts customer satisfaction from Flipkart chat/transcript texts and interaction metadata using text embeddings, TF‑IDF features, and gradient-boosted models.
+
+**Stack**: Python, Pandas, Scikit-learn, XGBoost/LightGBM, Hugging Face Transformers, SpaCy, Flask, Docker  
+**Outcome**: Automated triage and prioritization of tickets, improving CSAT prediction and response-routing efficiency
 
 #### 🛠️ [Productionization of ML Systems](https://github.com/Ayush245101/Productionization-of-ML-Systems)
 Integrated gender classification, hotel recommendation, and flight fare prediction models into deployable services.  
