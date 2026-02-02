@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif" width="500" alt="Data Science GIF" />
@@ -60,8 +60,7 @@ Applied K-Means, DBSCAN, PCA to derive thematic clusters of titles and release c
 **Result**: Genre & era-based cluster insights
 
 #### 🧾 [Classification---Flipkart-Customer-Service-Satisfaction](https://github.com/Ayush245101/Classification---Flipkart-Customer-Service-Satisfaction)
-End-to-end classification pipeline that predicts customer satisfaction from Flipkart chat/transcript texts and interaction metadata using text embeddings, TF‑IDF features, and gradient-boosted models.
-
+End-to-end classification pipeline that predicts customer satisfaction from Flipkart chat/transcript texts and interaction metadata using text embeddings, TF‑IDF features, and gradient-boosted models.  
 **Stack**: Python, Pandas, Scikit-learn, XGBoost/LightGBM, Hugging Face Transformers, SpaCy, Flask, Docker  
 **Outcome**: Automated triage and prioritization of tickets, improving CSAT prediction and response-routing efficiency
 
@@ -93,9 +92,24 @@ CNN model recognizing 7 emotion classes (FER dataset) with augmentation, batch n
 **Performance**: 70.4% train / 63.7% val / 62.9% test accuracy
 
 #### 🤝 [IndustryGpt — Industry-focused LLM Assistant](https://github.com/Ayush245101/IndustryGpt)
-Developed IndustryGpt, a domain-adapted language assistant tailored to provide industry-specific insights, summarization, and Q&A over proprietary and public datasets. Includes retrieval-augmented generation, prompt templates, and a lightweight web UI for demos.  
+Developed IndustryGpt, a domain-adapted language assistant tailored to provide industry-specific insights, summarization, and Q&A over proprietary and public datasets. Includes retrieval-augmented generation for context-aware responses.  
 **Stack**: Python, LangChain, Hugging Face / OpenAI, FAISS, Streamlit, Docker  
 **Use Cases**: Rapid domain research, internal knowledgebase assistant, automated report summaries
+
+#### 💧 [Water Quality Classification](https://github.com/Ayush245101/Water-Quality-Classification)
+Machine learning classification system to assess water potability and quality metrics. Implements multiple classification algorithms to predict water safety based on various chemical and physical parameters.  
+**Stack**: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy  
+**Outcome**: Automated water quality assessment for public health monitoring
+
+#### 📚 [Research Paper Management Analysis Intelligence System](https://github.com/Ayush245101/Research-Paper-Management-Analysis-Intelligence-System)
+Intelligent system for managing, analyzing, and extracting insights from research papers. Features automated categorization, keyword extraction, and citation network analysis.  
+**Stack**: Python, NLP libraries, Data Analytics tools  
+**Impact**: Streamlined research paper organization and discovery
+
+#### 🔍 [Multi-Document RAG Search Engine with Real-Time Web Search](https://github.com/Ayush245101/Multi-Document-RAG-Search-Engine-with-Real-Time-Web-Search)
+Advanced Retrieval-Augmented Generation (RAG) search engine that combines multi-document querying with real-time web search capabilities. Provides contextual answers by retrieving and synthesizing information from multiple sources.  
+**Stack**: Python, LangChain, Vector Databases, RAG frameworks  
+**Features**: Real-time web integration, multi-document retrieval, context-aware responses
 
 
 ---
